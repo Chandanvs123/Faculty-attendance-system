@@ -1,0 +1,51 @@
+C:\Users\rajshekh\Documents\pppp\Face Detection\FaceRecProOV\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+C:\Users\rajshekh\Documents\pppp\Face Detection\FaceRecProOV\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+C:\Users\rajshekh\Documents\pppp\Face Detection\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.CV.xml
+C:\Users\rajshekh\Documents\pppp\Face Detection\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.CV.UI.xml
+C:\Users\rajshekh\Documents\pppp\Face Detection\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.Util.xml
+C:\Users\rajshekh\Documents\pppp\Face Detection\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\rajshekh\Documents\pppp\Face Detection\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\rajshekh\Documents\pppp\Face Detection\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.Cache
+C:\Users\rajshekh\Documents\pppp\Face Detection\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\rajshekh\Documents\pppp\Face Detection\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\pppp\Face Detection\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\pppp\Face Detection\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\pppp\Face Detection\FaceRecProOV\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\pppp\Face Detection\FaceRecProOV\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\pppp\Face Detection\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.CV.xml
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\pppp\Face Detection\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.CV.UI.xml
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\pppp\Face Detection\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.Util.xml
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\pppp\Face Detection\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csprojResolveAssemblyReference.cache
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\pppp\Face Detection\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\pppp\Face Detection\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\pppp\Face Detection\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.Cache
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\pppp\Face Detection\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Login_a.resources
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\pppp\Face Detection\FaceRecProOV\FaceRecProOV\bin\Debug\WrapperDataBase.dll
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\pppp\Face Detection\FaceRecProOV\FaceRecProOV\bin\Debug\WrapperDataBase.pdb
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\pppp\Face Detection\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Nomination_form.resources
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\pppp\Face Detection\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Votes.resources
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\pppp\Face Detection\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Register.resources
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\pppp\Face Detection\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Login.resources
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\pppp\Face Detection\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.admin_home.resources
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\pppp\Face Detection\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.admin_vote.resources
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\2021\prject\ML\face_detection_AIT\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\2021\prject\ML\face_detection_AIT\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\2021\prject\ML\face_detection_AIT\FaceRecProOV\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\2021\prject\ML\face_detection_AIT\FaceRecProOV\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\2021\prject\ML\face_detection_AIT\FaceRecProOV\FaceRecProOV\bin\Debug\WrapperDataBase.dll
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\2021\prject\ML\face_detection_AIT\FaceRecProOV\FaceRecProOV\bin\Debug\WrapperDataBase.pdb
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\2021\prject\ML\face_detection_AIT\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.CV.xml
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\2021\prject\ML\face_detection_AIT\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.CV.UI.xml
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\2021\prject\ML\face_detection_AIT\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.Util.xml
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\2021\prject\ML\face_detection_AIT\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csprojResolveAssemblyReference.cache
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\2021\prject\ML\face_detection_AIT\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Login.resources
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\2021\prject\ML\face_detection_AIT\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Login_a.resources
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\2021\prject\ML\face_detection_AIT\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\2021\prject\ML\face_detection_AIT\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Nomination_form.resources
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\2021\prject\ML\face_detection_AIT\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\2021\prject\ML\face_detection_AIT\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Register.resources
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\2021\prject\ML\face_detection_AIT\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Votes.resources
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\2021\prject\ML\face_detection_AIT\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.Cache
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\2021\prject\ML\face_detection_AIT\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Attendance.resources
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\2021\prject\ML\face_detection_AIT\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.admin_attendance.resources
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\2021\prject\ML\face_detection_AIT\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Form1.resources

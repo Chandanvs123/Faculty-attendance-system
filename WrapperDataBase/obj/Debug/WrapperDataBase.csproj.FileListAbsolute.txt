@@ -1,0 +1,60 @@
+G:\PRJCT\RITOfficeManagment1\WrapperDataBase\bin\Debug\WrapperDataBase.dll
+G:\PRJCT\RITOfficeManagment1\WrapperDataBase\bin\Debug\WrapperDataBase.pdb
+G:\PRJCT\RITOfficeManagment1\WrapperDataBase\obj\Debug\ResolveAssemblyReference.cache
+G:\PRJCT\RITOfficeManagment1\WrapperDataBase\obj\Debug\WrapperDataBase.dll
+G:\PRJCT\RITOfficeManagment1\WrapperDataBase\obj\Debug\WrapperDataBase.pdb
+C:\Users\rajshekh\Documents\RITOfficeManagment1\WrapperDataBase\bin\Debug\WrapperDataBase.dll
+C:\Users\rajshekh\Documents\RITOfficeManagment1\WrapperDataBase\bin\Debug\WrapperDataBase.pdb
+C:\Users\rajshekh\Documents\RITOfficeManagment1\WrapperDataBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rajshekh\Documents\RITOfficeManagment1\WrapperDataBase\obj\Debug\WrapperDataBase.dll
+C:\Users\rajshekh\Documents\RITOfficeManagment1\WrapperDataBase\obj\Debug\WrapperDataBase.pdb
+C:\Users\rajshekh\Documents\LVP Project 2015\Room_allotMent\WrapperDataBase\bin\Debug\WrapperDataBase.dll
+C:\Users\rajshekh\Documents\LVP Project 2015\Room_allotMent\WrapperDataBase\bin\Debug\WrapperDataBase.pdb
+C:\Users\rajshekh\Documents\LVP Project 2015\Room_allotMent\WrapperDataBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rajshekh\Documents\LVP Project 2015\Room_allotMent\WrapperDataBase\obj\Debug\WrapperDataBase.dll
+C:\Users\rajshekh\Documents\LVP Project 2015\Room_allotMent\WrapperDataBase\obj\Debug\WrapperDataBase.pdb
+C:\Users\rajshekh\Documents\LVP Project 2015\Captch_Password\WrapperDataBase\bin\Debug\WrapperDataBase.dll
+C:\Users\rajshekh\Documents\LVP Project 2015\Captch_Password\WrapperDataBase\bin\Debug\WrapperDataBase.pdb
+C:\Users\rajshekh\Documents\LVP Project 2015\Captch_Password\WrapperDataBase\obj\Debug\WrapperDataBase.dll
+C:\Users\rajshekh\Documents\LVP Project 2015\Captch_Password\WrapperDataBase\obj\Debug\WrapperDataBase.pdb
+C:\Users\rajshekh\Documents\LVP Project 2015\Captch_Password\WrapperDataBase\obj\Debug\WrapperDataBase.csprojResolveAssemblyReference.cache
+C:\Users\rajshekh\Documents\LVP Project 2015\test_chaittra\WrapperDataBase\bin\Debug\WrapperDataBase.dll
+C:\Users\rajshekh\Documents\LVP Project 2015\test_chaittra\WrapperDataBase\bin\Debug\WrapperDataBase.pdb
+C:\Users\rajshekh\Documents\LVP Project 2015\test_chaittra\WrapperDataBase\obj\Debug\WrapperDataBase.csprojResolveAssemblyReference.cache
+C:\Users\rajshekh\Documents\LVP Project 2015\test_chaittra\WrapperDataBase\obj\Debug\WrapperDataBase.dll
+C:\Users\rajshekh\Documents\LVP Project 2015\test_chaittra\WrapperDataBase\obj\Debug\WrapperDataBase.pdb
+C:\Users\rajshekh\Documents\LVP Project 2015\car_mitra\WrapperDataBase\bin\Debug\WrapperDataBase.dll
+C:\Users\rajshekh\Documents\LVP Project 2015\car_mitra\WrapperDataBase\bin\Debug\WrapperDataBase.pdb
+C:\Users\rajshekh\Documents\LVP Project 2015\car_mitra\WrapperDataBase\obj\Debug\WrapperDataBase.csprojResolveAssemblyReference.cache
+C:\Users\rajshekh\Documents\LVP Project 2015\car_mitra\WrapperDataBase\obj\Debug\WrapperDataBase.dll
+C:\Users\rajshekh\Documents\LVP Project 2015\car_mitra\WrapperDataBase\obj\Debug\WrapperDataBase.pdb
+C:\Users\rajshekh\Documents\LVP Project 2015\otp_based_shopping\WrapperDataBase\bin\Debug\WrapperDataBase.dll
+C:\Users\rajshekh\Documents\LVP Project 2015\otp_based_shopping\WrapperDataBase\bin\Debug\WrapperDataBase.pdb
+C:\Users\rajshekh\Documents\LVP Project 2015\otp_based_shopping\WrapperDataBase\obj\Debug\WrapperDataBase.csprojResolveAssemblyReference.cache
+C:\Users\rajshekh\Documents\LVP Project 2015\otp_based_shopping\WrapperDataBase\obj\Debug\WrapperDataBase.dll
+C:\Users\rajshekh\Documents\LVP Project 2015\otp_based_shopping\WrapperDataBase\obj\Debug\WrapperDataBase.pdb
+C:\Users\rajshekh\Documents\LVP Project 2015\auto_answer_check\WrapperDataBase\bin\Debug\WrapperDataBase.dll
+C:\Users\rajshekh\Documents\LVP Project 2015\auto_answer_check\WrapperDataBase\bin\Debug\WrapperDataBase.pdb
+C:\Users\rajshekh\Documents\LVP Project 2015\auto_answer_check\WrapperDataBase\obj\Debug\WrapperDataBase.csprojResolveAssemblyReference.cache
+C:\Users\rajshekh\Documents\LVP Project 2015\auto_answer_check\WrapperDataBase\obj\Debug\WrapperDataBase.dll
+C:\Users\rajshekh\Documents\LVP Project 2015\auto_answer_check\WrapperDataBase\obj\Debug\WrapperDataBase.pdb
+C:\Users\rajshekh\Documents\Raj Old Lap\LVP Project 2015\LVP Project 2015\auto_answer_check\WrapperDataBase\bin\Debug\WrapperDataBase.dll
+C:\Users\rajshekh\Documents\Raj Old Lap\LVP Project 2015\LVP Project 2015\auto_answer_check\WrapperDataBase\bin\Debug\WrapperDataBase.pdb
+C:\Users\rajshekh\Documents\Raj Old Lap\LVP Project 2015\LVP Project 2015\auto_answer_check\WrapperDataBase\obj\Debug\WrapperDataBase.csprojResolveAssemblyReference.cache
+C:\Users\rajshekh\Documents\Raj Old Lap\LVP Project 2015\LVP Project 2015\auto_answer_check\WrapperDataBase\obj\Debug\WrapperDataBase.dll
+C:\Users\rajshekh\Documents\Raj Old Lap\LVP Project 2015\LVP Project 2015\auto_answer_check\WrapperDataBase\obj\Debug\WrapperDataBase.pdb
+C:\Users\rajshekh\Documents\pppp\MCE_tequip\WrapperDataBase\bin\Debug\WrapperDataBase.dll
+C:\Users\rajshekh\Documents\pppp\MCE_tequip\WrapperDataBase\bin\Debug\WrapperDataBase.pdb
+C:\Users\rajshekh\Documents\pppp\MCE_tequip\WrapperDataBase\obj\Debug\WrapperDataBase.csprojResolveAssemblyReference.cache
+C:\Users\rajshekh\Documents\pppp\MCE_tequip\WrapperDataBase\obj\Debug\WrapperDataBase.dll
+C:\Users\rajshekh\Documents\pppp\MCE_tequip\WrapperDataBase\obj\Debug\WrapperDataBase.pdb
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\pppp\Face Detection\FaceRecProOV\WrapperDataBase\bin\Debug\WrapperDataBase.dll
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\pppp\Face Detection\FaceRecProOV\WrapperDataBase\bin\Debug\WrapperDataBase.pdb
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\pppp\Face Detection\FaceRecProOV\WrapperDataBase\obj\Debug\WrapperDataBase.csprojResolveAssemblyReference.cache
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\pppp\Face Detection\FaceRecProOV\WrapperDataBase\obj\Debug\WrapperDataBase.dll
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\pppp\Face Detection\FaceRecProOV\WrapperDataBase\obj\Debug\WrapperDataBase.pdb
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\2021\prject\ML\face_detection_AIT\FaceRecProOV\WrapperDataBase\bin\Debug\WrapperDataBase.dll
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\2021\prject\ML\face_detection_AIT\FaceRecProOV\WrapperDataBase\bin\Debug\WrapperDataBase.pdb
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\2021\prject\ML\face_detection_AIT\FaceRecProOV\WrapperDataBase\obj\Debug\WrapperDataBase.csprojResolveAssemblyReference.cache
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\2021\prject\ML\face_detection_AIT\FaceRecProOV\WrapperDataBase\obj\Debug\WrapperDataBase.dll
+C:\Users\rajshekh\OneDrive - Synopsys, Inc\Documents\2021\prject\ML\face_detection_AIT\FaceRecProOV\WrapperDataBase\obj\Debug\WrapperDataBase.pdb
